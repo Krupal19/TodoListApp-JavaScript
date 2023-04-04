@@ -58,6 +58,7 @@ body {
   background: linear-gradient(to right, #996506 0%, #4d4d0d 100%) fixed;
   background-clip: text;
   color: transparent;
+  -webkit-background-clip: text;
 }
 
 .wrapper .inputField {
